@@ -5,4 +5,5 @@ A 2.5d raycaster written in Common Lisp
 
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/4613112/21232304/bb4df9b0-c2b0-11e6-90af-4b43b6d05eb1.gif">
+  <br><br>
 </p>
